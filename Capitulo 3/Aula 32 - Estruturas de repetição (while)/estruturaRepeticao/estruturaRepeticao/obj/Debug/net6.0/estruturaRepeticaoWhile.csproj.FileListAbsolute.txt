@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\bin\Debug\net6.0\estruturaRepeticaoWhile.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\bin\Debug\net6.0\estruturaRepeticaoWhile.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\bin\Debug\net6.0\estruturaRepeticaoWhile.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\bin\Debug\net6.0\estruturaRepeticaoWhile.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\bin\Debug\net6.0\estruturaRepeticaoWhile.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\estruturaRepeticaoWhile.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\estruturaRepeticaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\estruturaRepeticaoWhile.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\estruturaRepeticaoWhile.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\estruturaRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\estruturaRepeticaoWhile.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\refint\estruturaRepeticaoWhile.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\estruturaRepeticaoWhile.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\estruturaRepeticaoWhile.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 32 - Estruturas de repetição (while)\estruturaRepeticao\estruturaRepeticao\obj\Debug\net6.0\ref\estruturaRepeticaoWhile.dll
