@@ -1,0 +1,15 @@
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\bin\Debug\net6.0\Course.exe
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\bin\Debug\net6.0\Course.deps.json
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\bin\Debug\net6.0\Course.dll
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\bin\Debug\net6.0\Course.pdb
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\Course.dll
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\refint\Course.dll
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\Course.pdb
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\xampp\htdocs\c#\aulas\cursoCSharpOrientadoObjetos\Capitulo 3\Exercicio1\Course\Course\obj\Debug\net6.0\ref\Course.dll
