@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\bin\Debug\net6.0\funcoes.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\bin\Debug\net6.0\funcoes.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\bin\Debug\net6.0\funcoes.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\bin\Debug\net6.0\funcoes.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\bin\Debug\net6.0\funcoes.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\funcoes.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\funcoes.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\funcoes.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\funcoes.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\funcoes.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\refint\funcoes.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\funcoes.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\funcoes.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 30 - Funções (Sintaxe)\funcoes\funcoes\obj\Debug\net6.0\ref\funcoes.dll
