@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\bin\Debug\net6.0\estruturaRepeticaoFor.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\bin\Debug\net6.0\estruturaRepeticaoFor.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\bin\Debug\net6.0\estruturaRepeticaoFor.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\bin\Debug\net6.0\estruturaRepeticaoFor.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\bin\Debug\net6.0\estruturaRepeticaoFor.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\estruturaRepeticaoFor.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\estruturaRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\estruturaRepeticaoFor.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\estruturaRepeticaoFor.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\estruturaRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\estruturaRepeticaoFor.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\refint\estruturaRepeticaoFor.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\estruturaRepeticaoFor.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\estruturaRepeticaoFor.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 34 - Estrutura de repetição (for)\estruturaRepeticaoFor\estruturaRepeticaoFor\obj\Debug\net6.0\ref\estruturaRepeticaoFor.dll
