@@ -1,0 +1,5 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 23 - Entrada de dados 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 23 - Entrada de dados 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 23 - Entrada de dados 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 23 - Entrada de dados 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 23 - Entrada de dados 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
