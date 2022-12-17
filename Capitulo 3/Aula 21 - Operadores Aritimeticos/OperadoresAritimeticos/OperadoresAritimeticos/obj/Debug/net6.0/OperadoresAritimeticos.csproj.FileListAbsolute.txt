@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\refint\OperadoresAritimeticos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 21 - Operadores Aritimeticos\OperadoresAritimeticos\OperadoresAritimeticos\obj\Debug\net6.0\ref\OperadoresAritimeticos.dll
