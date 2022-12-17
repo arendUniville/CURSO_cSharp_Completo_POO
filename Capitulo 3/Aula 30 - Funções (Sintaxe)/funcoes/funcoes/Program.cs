@@ -26,26 +26,28 @@ namespace funcoes
 
         static int Maior(int a, int b, int c) {
 
-            double maior;
+            int maior;
 
-            if (a > b && a > c)
-            {
+                if (a > b && a > c)
+                {
 
-                Console.WriteLine("O maior número é: " + a);
+                    maior = a;
 
-            }
-            else if (b > c)
-            {
+                }
+                else if (b > c)
+                {
 
-                Console.WriteLine("O maior número é: " + b);
+                    maior = b;
 
-            }
-            else
-            {
+                }
+                else
+                {
 
-                Console.WriteLine("O maior número é: " + c);
+                    maior = c;
 
-            }
+                }
+
+            return maior;
 
         }
     }
