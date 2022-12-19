@@ -14,17 +14,17 @@ namespace adicionaRemoveProdutos
             
             Console.WriteLine("Insira as informações do produto: ");
 
-            Console.WriteLine("Nome: ");
+            Console.Write("Nome: ");
             p.Nome = Console.ReadLine();
 
-            Console.WriteLine("Preço: ");
+            Console.Write("Preço: ");
             p.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine("Quantidade: ");
+            Console.Write("Quantidade: ");
             p.Quantidade = int.Parse(Console.ReadLine());
 
 
-            Console.WriteLine("Dados do produto: " + p);
+            Console.Write("\r\nDados do produto: " + p);
 
 
 
