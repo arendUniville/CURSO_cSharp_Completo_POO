@@ -17,6 +17,13 @@ namespace adicionaRemoveProdutos
 
         }
 
+        public void AdicionarProdutos(int quantidade)
+        {
+
+            Quantidade += quantidade;
+
+        }
+
 
         public override string ToString()
         {
