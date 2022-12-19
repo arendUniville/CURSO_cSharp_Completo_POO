@@ -27,11 +27,20 @@ namespace adicionaRemoveProdutos
             Console.Write("\r\nDados do produto: " + p);
 
 
-            Console.Write("\r\nDigite o número de produtos a serem adicionados: ");
+            Console.Write("\r\n\r\nDigite o número de produtos a serem adicionados: ");
             int qnt = int.Parse(Console.ReadLine());
 
             p.AdicionarProdutos(qnt);
 
+            Console.WriteLine("Dados atualizados: " + p);
+
+
+            Console.Write("\r\n\r\nDigite o número de produtos a serem removidos: ");
+            qnt = int.Parse(Console.ReadLine());
+
+            p.RemoverProdutos(qnt);
+
+            Console.WriteLine("Dados atualizados: " + p);
 
 
         }
