@@ -5,9 +5,9 @@ namespace membrosEstaticos2
     class Calculadora
     {
 
-        public double Pi = 3.14;
+        public static double Pi = 3.14;
 
-        public double Circunferencia(double r)
+        public static double Circunferencia(double r)
         {
 
             return 2.0 * Pi * r;
@@ -15,7 +15,7 @@ namespace membrosEstaticos2
         }
 
 
-        public double Volume(double r)
+        public static double Volume(double r)
         {
             /* Ao cubo */
             return 4.0 / 3.0 * Pi * Math.Pow(r, 3.0);

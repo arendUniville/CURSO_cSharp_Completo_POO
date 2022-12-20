@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\bin\Debug\net6.0\membrosEstaticos2.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\bin\Debug\net6.0\membrosEstaticos2.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\bin\Debug\net6.0\membrosEstaticos2.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\bin\Debug\net6.0\membrosEstaticos2.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\bin\Debug\net6.0\membrosEstaticos2.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\membrosEstaticos2.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\membrosEstaticos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\membrosEstaticos2.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\membrosEstaticos2.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\membrosEstaticos2.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\membrosEstaticos2.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\refint\membrosEstaticos2.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\membrosEstaticos2.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\membrosEstaticos2.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 47 - Membros Estaticos 2\membrosEstaticos2\membrosEstaticos2\obj\Debug\net6.0\ref\membrosEstaticos2.dll
