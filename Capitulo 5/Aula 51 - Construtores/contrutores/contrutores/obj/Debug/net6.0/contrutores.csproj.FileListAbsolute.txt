@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\bin\Debug\net6.0\contrutores.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\bin\Debug\net6.0\contrutores.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\bin\Debug\net6.0\contrutores.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\bin\Debug\net6.0\contrutores.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\bin\Debug\net6.0\contrutores.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\contrutores.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\contrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\contrutores.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\contrutores.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\contrutores.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\contrutores.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\refint\contrutores.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\contrutores.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\contrutores.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 51 - Construtores\contrutores\contrutores\obj\Debug\net6.0\ref\contrutores.dll
