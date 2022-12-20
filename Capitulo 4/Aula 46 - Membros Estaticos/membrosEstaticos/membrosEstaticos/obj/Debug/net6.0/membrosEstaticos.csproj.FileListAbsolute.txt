@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\bin\Debug\net6.0\membrosEstaticos.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\bin\Debug\net6.0\membrosEstaticos.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\bin\Debug\net6.0\membrosEstaticos.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\bin\Debug\net6.0\membrosEstaticos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\bin\Debug\net6.0\membrosEstaticos.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\membrosEstaticos.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\membrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\membrosEstaticos.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\membrosEstaticos.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\membrosEstaticos.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\membrosEstaticos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\refint\membrosEstaticos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\membrosEstaticos.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\membrosEstaticos.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 4\Aula 46 - Membros Estaticos\membrosEstaticos\membrosEstaticos\obj\Debug\net6.0\ref\membrosEstaticos.dll
