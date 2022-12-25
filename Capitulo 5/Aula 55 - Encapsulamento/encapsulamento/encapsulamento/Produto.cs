@@ -24,6 +24,20 @@ namespace Course
 
         }
 
+        public string GetNome()
+        {
+
+            return _nome;
+
+        }
+
+        public void SetNome(string nome)
+        {
+
+            _nome = nome;
+
+        }
+
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;
