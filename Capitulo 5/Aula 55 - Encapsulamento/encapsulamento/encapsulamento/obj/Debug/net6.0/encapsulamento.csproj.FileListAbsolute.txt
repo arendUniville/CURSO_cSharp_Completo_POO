@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\bin\Debug\net6.0\encapsulamento.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\refint\encapsulamento.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\encapsulamento.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 55 - Encapsulamento\encapsulamento\encapsulamento\obj\Debug\net6.0\ref\encapsulamento.dll
