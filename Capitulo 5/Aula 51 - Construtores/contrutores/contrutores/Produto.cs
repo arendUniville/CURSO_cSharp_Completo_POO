@@ -10,6 +10,12 @@ namespace Course
         public int Quantidade;
 
 
+        public Produto()
+        {
+
+
+        }
+
         public Produto(string nome, double preco, int quantidade)
         {
         
