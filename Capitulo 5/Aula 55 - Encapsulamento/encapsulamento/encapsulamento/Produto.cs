@@ -34,7 +34,32 @@ namespace Course
         public void SetNome(string nome)
         {
 
-            _nome = nome;
+            if(nome != null && nome.Length > 1)
+            {
+
+                _nome = nome;
+
+            }
+            else
+            {
+
+                Console.WriteLine("Não é possível inserir um valor vazio ou com menos de 2 letras.");
+
+            }
+
+        }
+
+         public double GetPreco()
+        {
+
+            return _preco;
+
+        }
+
+        public int GetQuantidade()
+        {
+
+            return _quantidade;
 
         }
 
