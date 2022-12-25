@@ -24,44 +24,36 @@ namespace Course
 
         }
 
-        public string GetNome()
+        public string Nome
         {
 
-            return _nome;
+            get { return _nome; }
+            
+            set {
 
-        }
+                    if (value != null && value.Length > 1)
+                    {
 
-        public void SetNome(string nome)
-        {
+                        _nome = value;
 
-            if(nome != null && nome.Length > 1)
-            {
+                    }
+                    else
+                    {
 
-                _nome = nome;
+                        Console.WriteLine("Não é possível inserir um valor vazio ou com menos de 2 letras.");
+
+                    }
 
             }
-            else
-            {
-
-                Console.WriteLine("Não é possível inserir um valor vazio ou com menos de 2 letras.");
-
-            }
 
         }
 
-         public double GetPreco()
-        {
+        public double Preco { get { return _preco; } }
 
-            return _preco;
+        public int Quantidade { get { return _quantidade; } }
 
-        }
 
-        public int GetQuantidade()
-        {
 
-            return _quantidade;
-
-        }
 
         public double ValorTotalEmEstoque()
         {

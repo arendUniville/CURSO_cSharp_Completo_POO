@@ -10,16 +10,13 @@ namespace Course
 
             Produto p = new Produto("TV", 500.00, 10);
 
-            Console.WriteLine(p.GetNome());
+            p.Nome = "T";
 
-            Console.Write("Digite o nome a ser alterado: ");
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
 
-            string novoNome = Console.ReadLine();
-
-            p.SetNome(novoNome);
-
-            Console.WriteLine(p.GetNome());
-            
         }
+
     }
+
 }

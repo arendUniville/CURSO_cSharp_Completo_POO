@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\bin\Debug\net6.0\aula56_properties.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\bin\Debug\net6.0\aula56_properties.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\bin\Debug\net6.0\aula56_properties.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\bin\Debug\net6.0\aula56_properties.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\bin\Debug\net6.0\aula56_properties.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\aula56_properties.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\aula56_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\aula56_properties.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\aula56_properties.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\aula56_properties.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\aula56_properties.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\refint\aula56_properties.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\aula56_properties.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\aula56_properties.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 56 - Properties\aula56_properties\aula56_properties\obj\Debug\net6.0\ref\aula56_properties.dll
