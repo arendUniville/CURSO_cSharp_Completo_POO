@@ -13,3 +13,18 @@ C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20\Conver
 C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.pdb
 C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.genruntimeconfig.cache
 C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ref\ConversoesDeTipos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\bin\Debug\net6.0\ConversoesDeTipos.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\bin\Debug\net6.0\ConversoesDeTipos.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\bin\Debug\net6.0\ConversoesDeTipos.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\bin\Debug\net6.0\ConversoesDeTipos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\bin\Debug\net6.0\ConversoesDeTipos.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\refint\ConversoesDeTipos.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ConversoesDeTipos.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 3\Aula 20 - Conversões Casting\ConversoesDeTipos\ConversoesDeTipos\obj\Debug\net6.0\ref\ConversoesDeTipos.dll
