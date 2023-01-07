@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 5\\Aula 56 - Properties\\aula56_properties\\aula56_properties\\aula56_properties.csproj",
-      "projectName": "aula56_properties",
-      "projectPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 5\\Aula 56 - Properties\\aula56_properties\\aula56_properties\\aula56_properties.csproj",
+      "projectUniqueName": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 5\\Aula 57 - Auto Properties\\aula57_autoProperties\\aula57_autoProperties\\aula57_autoProperties.csproj",
+      "projectName": "aula57_autoProperties",
+      "projectPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 5\\Aula 57 - Auto Properties\\aula57_autoProperties\\aula57_autoProperties\\aula57_autoProperties.csproj",
       "packagesPath": "C:\\Users\\bi_ar\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 5\\Aula 56 - Properties\\aula56_properties\\aula56_properties\\obj\\",
+      "outputPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 5\\Aula 57 - Auto Properties\\aula57_autoProperties\\aula57_autoProperties\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
