@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Security.Cryptography.X509Certificates;
 
 namespace aula61e62_exercicio
 {
@@ -36,7 +37,6 @@ namespace aula61e62_exercicio
                 conta = new ContaBancaria(numero, titular);
 
             }
-            
 
             Console.WriteLine();
             Console.WriteLine("Dados da conta: ");
@@ -44,7 +44,32 @@ namespace aula61e62_exercicio
 
 
 
-            
+
+            Console.WriteLine();
+            Console.Write("Digite o valor a ser depositado: ");
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            conta.Deposito(quantia);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
+
+
+            Console.WriteLine();
+            Console.Write("Digite o valor a ser sacado: ");
+            quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            conta.Saque(quantia);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta atualizados: ");
+            Console.WriteLine(conta);
+
+
+
+
+
 
 
         }
