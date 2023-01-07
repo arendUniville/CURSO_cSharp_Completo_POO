@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\bin\Debug\net6.0\aula57_autoProperties.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\bin\Debug\net6.0\aula57_autoProperties.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\bin\Debug\net6.0\aula57_autoProperties.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\bin\Debug\net6.0\aula57_autoProperties.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\bin\Debug\net6.0\aula57_autoProperties.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\aula57_autoProperties.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\aula57_autoProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\aula57_autoProperties.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\aula57_autoProperties.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\aula57_autoProperties.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\aula57_autoProperties.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\refint\aula57_autoProperties.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\aula57_autoProperties.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\aula57_autoProperties.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 57 - Auto Properties\aula57_autoProperties\aula57_autoProperties\obj\Debug\net6.0\ref\aula57_autoProperties.dll

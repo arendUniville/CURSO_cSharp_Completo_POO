@@ -1,78 +1,22 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Globalization;
 namespace Course
 {
-    class Produto
+    class Program
     {
-
-
-        private string _nome;
-        public double Preco { get; private set; }
-        public int Quantidade { get; private set; }
-
-
-
-        public Produto()
+        static void Main(string[] args)
         {
+
+
+            Produto p = new Produto("TV", 500.00, 10);
+
+            p.Nome = "T";
+
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
 
         }
 
-        public Produto(string nome, double preco, int quantidade)
-        {
-
-            _nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
-
-        }
-
-        public string Nome
-        {
-
-            get { return _nome; }
-
-            set
-            {
-
-                if (value != null && value.Length > 1)
-                {
-
-                    _nome = value;
-
-                }
-                else
-                {
-
-                    Console.WriteLine("Não é possível inserir um valor vazio ou com menos de 2 letras.");
-
-                }
-
-            }
-
-        }
-
-
-        public double ValorTotalEmEstoque()
-        {
-            return Preco * Quantidade;
-        }
-        public void AdicionarProdutos(int quantidade)
-        {
-            Quantidade += quantidade;
-        }
-        public void RemoverProdutos(int quantidade)
-        {
-            Quantidade -= quantidade;
-        }
-        public override string ToString()
-        {
-            return _nome
-            + ", $ "
-            + Preco.ToString("F2", CultureInfo.InvariantCulture)
-            + ", "
-            + Quantidade
-            + " unidades, Total: $ "
-            + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
-
-        }
     }
+
 }
