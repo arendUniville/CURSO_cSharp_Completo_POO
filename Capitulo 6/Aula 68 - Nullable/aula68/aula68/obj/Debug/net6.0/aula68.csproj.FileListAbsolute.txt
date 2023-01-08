@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\bin\Debug\net6.0\aula68.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\bin\Debug\net6.0\aula68.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\bin\Debug\net6.0\aula68.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\bin\Debug\net6.0\aula68.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\bin\Debug\net6.0\aula68.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\aula68.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\aula68.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\aula68.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\aula68.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\aula68.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\aula68.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\refint\aula68.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\aula68.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\aula68.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 68 - Nullable\aula68\aula68\obj\Debug\net6.0\ref\aula68.dll
