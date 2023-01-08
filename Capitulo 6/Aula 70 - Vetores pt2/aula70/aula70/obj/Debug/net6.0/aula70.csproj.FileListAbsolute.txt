@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\bin\Debug\net6.0\aula70.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\bin\Debug\net6.0\aula70.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\bin\Debug\net6.0\aula70.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\bin\Debug\net6.0\aula70.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\bin\Debug\net6.0\aula70.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\aula70.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\aula70.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\aula70.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\aula70.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\aula70.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\aula70.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\refint\aula70.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\aula70.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\aula70.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 70 - Vetores pt2\aula70\aula70\obj\Debug\net6.0\ref\aula70.dll
