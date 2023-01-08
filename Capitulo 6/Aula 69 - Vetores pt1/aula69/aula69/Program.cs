@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Diagnostics.CodeAnalysis;
+using System.Globalization;
 
 namespace aula69
 {
@@ -16,9 +18,22 @@ namespace aula69
             for (int i = 0; i < n; i++)
             {
 
-                vect[i] = double.Parse(Console.ReadLine());
+                vect[i] = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             }
+
+            double soma = 0.0;
+
+            for (int i = 0; i < n; i++)
+            {
+
+                soma += vect[i];
+
+            }
+
+            double avg = soma / n;
+
+            Console.WriteLine(avg.ToString("F2", CultureInfo.InvariantCulture));
  
         }
     }
