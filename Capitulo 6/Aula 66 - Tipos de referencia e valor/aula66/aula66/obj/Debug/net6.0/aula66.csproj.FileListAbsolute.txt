@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\bin\Debug\net6.0\aula66.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\bin\Debug\net6.0\aula66.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\bin\Debug\net6.0\aula66.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\bin\Debug\net6.0\aula66.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\bin\Debug\net6.0\aula66.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\aula66.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\aula66.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\aula66.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\aula66.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\aula66.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\aula66.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\refint\aula66.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\aula66.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\aula66.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 66 - Tipos de referencia e valor\aula66\aula66\obj\Debug\net6.0\ref\aula66.dll
