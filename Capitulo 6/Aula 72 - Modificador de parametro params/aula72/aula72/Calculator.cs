@@ -9,7 +9,7 @@ namespace aula72
     class Calculator
     {
 
-        public static int Sum(int[] numbers)
+        public static int Sum(params int[] numbers)
         {
 
             int sum = 0;
