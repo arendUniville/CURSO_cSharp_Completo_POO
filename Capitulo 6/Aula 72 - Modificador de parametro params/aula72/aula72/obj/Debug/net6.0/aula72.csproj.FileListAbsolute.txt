@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\bin\Debug\net6.0\aula72.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\bin\Debug\net6.0\aula72.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\bin\Debug\net6.0\aula72.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\bin\Debug\net6.0\aula72.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\bin\Debug\net6.0\aula72.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\aula72.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\aula72.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\aula72.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\aula72.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\aula72.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\aula72.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\refint\aula72.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\aula72.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\aula72.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 72 - Modificador de parametro params\aula72\aula72\obj\Debug\net6.0\ref\aula72.dll
