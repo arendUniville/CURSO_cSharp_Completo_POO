@@ -15,5 +15,12 @@ namespace aula73
             x = x * 3;
 
         }
+
+        public static void Triple2(int origin, out int result)
+        {
+            
+            result = origin * 3;
+
+        }
     }
 }
