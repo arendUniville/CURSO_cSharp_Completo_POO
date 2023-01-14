@@ -107,7 +107,7 @@ namespace aula76
                     }
 
 
-                //Remover um elemento a partir de uma string.
+                //Remover um elemento a partir de um índice.
                 list.RemoveAt(1);
 
 
@@ -122,6 +122,16 @@ namespace aula76
 
 
                 //Remover elementos a partir de uma faixa de valores.
+                list.RemoveRange(1, 2); //A partir do elemento 1 remover 2 itens.
+
+
+                Console.WriteLine("\r\nRemovendo dois elementos a partir do elemento 1: ");
+
+                foreach (string s in list)
+                    {
+
+                        Console.WriteLine(s);
+                    }
 
 
         }
