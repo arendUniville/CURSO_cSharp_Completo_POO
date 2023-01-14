@@ -21,13 +21,29 @@ namespace aula78
 
             for(int i = 1; i <= quantidadeEmpregados; i++)
             {
+                var idEmployee = 0;
+                string nameEmployee;
+
+                bool isCorrectType;
 
                 Employee newEmployee = new Employee();
 
                 Console.WriteLine("\r\nEmpregado N° " + i);
                 
                 Console.Write("Digite o ID: ");
-                newEmployee.Id = int.Parse(Console.ReadLine());
+                isCorrectType = int.TryParse(Console.ReadLine(), out idEmployee);
+
+                
+                if(isCorrectType == false)
+                {
+
+                    Console.WriteLine("O valor informado não é um tipo numérico inteiro, favor verifique o valor inserido.");
+                    break;
+
+                }
+
+                newEmployee.Id = idEmployee;
+
 
 
                 Console.Write("Digite o nome: ");
