@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\bin\Debug\net6.0\aula76.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\bin\Debug\net6.0\aula76.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\bin\Debug\net6.0\aula76.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\bin\Debug\net6.0\aula76.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\bin\Debug\net6.0\aula76.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\aula76.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\aula76.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\aula76.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\aula76.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\aula76.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\aula76.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\refint\aula76.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\aula76.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\aula76.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 76 - Listas 1\aula76\aula76\obj\Debug\net6.0\ref\aula76.dll
