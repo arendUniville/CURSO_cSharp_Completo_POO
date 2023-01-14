@@ -20,6 +20,11 @@ namespace aula76
                 list.Add("Alex");
                 list.Add("Bob");
                 list.Add("Anna");
+                list.Add("Joaquino");
+                list.Add("Almeida");
+                list.Add("Bonifácio");
+                list.Add("Mendes");
+
                 list.Insert(2, "Marco");
 
 
@@ -101,6 +106,22 @@ namespace aula76
                         Console.WriteLine(s);
                     }
 
+
+                //Remover um elemento a partir de uma string.
+                list.RemoveAt(1);
+
+
+                Console.WriteLine("\r\nLista após a removação do elemento 1: ");
+
+                foreach (string s in list)
+                    {
+
+                        Console.WriteLine(s);
+                    }
+
+
+
+                //Remover elementos a partir de uma faixa de valores.
 
 
         }
