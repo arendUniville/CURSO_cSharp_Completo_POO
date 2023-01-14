@@ -13,3 +13,18 @@ C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 
 C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.pdb
 C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.genruntimeconfig.cache
 C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\ref\aula61e62_exercicio.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\bin\Debug\net6.0\aula61e62_exercicio.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\bin\Debug\net6.0\aula61e62_exercicio.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\bin\Debug\net6.0\aula61e62_exercicio.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\bin\Debug\net6.0\aula61e62_exercicio.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\bin\Debug\net6.0\aula61e62_exercicio.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\refint\aula61e62_exercicio.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\aula61e62_exercicio.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 5\Aula 60, 61 e 62 - Exercício\aula61e62_exercício\aula61e62_exercício\obj\Debug\net6.0\ref\aula61e62_exercicio.dll
