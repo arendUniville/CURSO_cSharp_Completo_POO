@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\bin\Debug\net6.0\aula88.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\bin\Debug\net6.0\aula88.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\bin\Debug\net6.0\aula88.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\bin\Debug\net6.0\aula88.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\bin\Debug\net6.0\aula88.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\aula88.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\aula88.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\aula88.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\aula88.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\aula88.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\aula88.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\refint\aula88.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\aula88.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\aula88.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 88 - Funções para string\aula88\aula88\obj\Debug\net6.0\ref\aula88.dll
