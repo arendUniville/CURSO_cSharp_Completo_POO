@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\bin\Debug\net6.0\aula90.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\bin\Debug\net6.0\aula90.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\bin\Debug\net6.0\aula90.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\bin\Debug\net6.0\aula90.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\bin\Debug\net6.0\aula90.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\aula90.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\aula90.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\aula90.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\aula90.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\aula90.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\aula90.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\refint\aula90.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\aula90.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\aula90.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 90 - TimeSpan\aula90\aula90\obj\Debug\net6.0\ref\aula90.dll
