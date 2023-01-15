@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace aula89
 {
@@ -37,6 +38,28 @@ namespace aula89
             Console.WriteLine(d6);
 
 
+            //---------------------------------------------------------
+
+
+            DateTime data1 = DateTime.Parse("2000-08-15");
+            DateTime data2 = DateTime.Parse("2000-08-15 13:05:58");
+            DateTime data3 = DateTime.Parse("15/08/2000");
+            DateTime data4 = DateTime.Parse("15/08/2000 13:05:58");
+
+            Console.WriteLine("Data 1: " + data1);
+            Console.WriteLine("Data 1: " + data2);
+            Console.WriteLine("Data 1: " + data3);
+            Console.WriteLine("Data 1: " + data4);
+
+
+            //---------------------------------------------------------
+
+            DateTime dataFormat1 = DateTime.ParseExact("2000-08-15", "yyyy-MM-dd", CultureInfo.InvariantCulture);
+            DateTime dataFormat2 = DateTime.ParseExact("15/08/2000 13:05:58", "dd/MM/yyyy HH:mm:ss", CultureInfo.InvariantCulture);
+
+
+            Console.WriteLine(dataFormat1);
+            Console.WriteLine(dataFormat2);
 
 
         }
