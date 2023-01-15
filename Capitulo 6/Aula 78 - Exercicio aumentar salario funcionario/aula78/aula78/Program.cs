@@ -10,7 +10,18 @@ namespace aula78
 
         public static void Main(string[] args)
         {
+
             int quantidadeEmpregados;
+            var idEmployee = 0;
+            var salary = 0.0;   
+            string nameEmployee;
+            bool isCorrectType;
+            int idEmployeeToIncrease;
+            double marginToIncrease;
+
+            
+            
+//------Registrando empregados:
 
             Console.Write("Digite quantos empregados você deseja registrar: ");
             quantidadeEmpregados = int.Parse(Console.ReadLine());
@@ -21,10 +32,6 @@ namespace aula78
 
             for(int i = 1; i <= quantidadeEmpregados; i++)
             {
-                var idEmployee = 0;
-                string nameEmployee;
-
-                bool isCorrectType;
 
                 Employee newEmployee = new Employee();
 
@@ -38,7 +45,7 @@ namespace aula78
                 {
 
                     Console.WriteLine("O valor informado não é um tipo numérico inteiro, favor verifique o valor inserido.");
-                    break;
+                    return;
 
                 }
 
@@ -51,12 +58,25 @@ namespace aula78
 
 
                 Console.Write("Digite o salário: ");
-                newEmployee.Salary = double.Parse(Console.ReadLine());
+                isCorrectType = double.TryParse(Console.ReadLine(), out salary);
+
+                if (isCorrectType == false)
+                {
+
+                    Console.WriteLine("O valor informado não é um tipo numérico decimal, favor verifique o valor inserido.");
+                    return;
+
+                }
+
+                newEmployee.Salary = salary;
 
                 listEmployees.Add(newEmployee);
 
             }
 
+
+
+//------Mostrando lista de empregados:
 
             Console.WriteLine("\r\nEmpregados(" + listEmployees.Count + "): ");
             
@@ -66,7 +86,41 @@ namespace aula78
                 Console.WriteLine(emp + "\r\n");
             }
 
+
+
+//------Realizar aumento:
+
+            Console.Write("Insira o ID do usuário que receberá o aumento: ");
+            isCorrectType = int.TryParse(Console.ReadLine(), out idEmployeeToIncrease);
+
+
+            if (isCorrectType == false)
+            {
+
+                Console.WriteLine("O valor informado não é um tipo numérico inteiro, favor verifique o valor inserido.");
+                return;
+
+            }
+
+            Console.Write("Insira a margem de aumento: ");
+            isCorrectType = double.TryParse(Console.ReadLine(), out marginToIncrease);
+
+            if (isCorrectType == false)
+            {
+
+                Console.WriteLine("O valor informado não é um tipo numérico decimal, favor verifique o valor inserido.");
+                return;
+                
+            }
+
+
             
+
+
+
+
+
+
 
         }
     }
