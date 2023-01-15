@@ -1,0 +1,30 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\refint\aula78.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\ref\aula78.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\bin\Debug\net6.0\aula78.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\refint\aula78.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\aula78.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 78 - Exercicio aumentar salario funcionario\aula78\aula78\obj\Debug\net6.0\ref\aula78.dll

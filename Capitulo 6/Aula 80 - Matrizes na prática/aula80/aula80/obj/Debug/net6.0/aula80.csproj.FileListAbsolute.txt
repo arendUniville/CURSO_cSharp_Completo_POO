@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\bin\Debug\net6.0\aula80.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\bin\Debug\net6.0\aula80.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\bin\Debug\net6.0\aula80.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\bin\Debug\net6.0\aula80.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\bin\Debug\net6.0\aula80.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\aula80.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\aula80.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\aula80.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\aula80.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\aula80.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\aula80.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\refint\aula80.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\aula80.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\aula80.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 80 - Matrizes na prática\aula80\aula80\obj\Debug\net6.0\ref\aula80.dll

@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\bin\Debug\net6.0\aula73.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\bin\Debug\net6.0\aula73.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\bin\Debug\net6.0\aula73.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\bin\Debug\net6.0\aula73.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\bin\Debug\net6.0\aula73.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\aula73.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\aula73.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\aula73.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\aula73.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\aula73.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\aula73.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\refint\aula73.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\aula73.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\aula73.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 73 - Modificadores de parametros ref e out\aula73\aula73\obj\Debug\net6.0\ref\aula73.dll

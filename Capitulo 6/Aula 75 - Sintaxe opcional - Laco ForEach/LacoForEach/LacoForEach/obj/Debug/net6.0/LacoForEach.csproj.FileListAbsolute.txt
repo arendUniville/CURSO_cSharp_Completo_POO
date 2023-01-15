@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\bin\Debug\net6.0\LacoForEach.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\bin\Debug\net6.0\LacoForEach.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\bin\Debug\net6.0\LacoForEach.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\bin\Debug\net6.0\LacoForEach.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\bin\Debug\net6.0\LacoForEach.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\LacoForEach.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\LacoForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\LacoForEach.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\LacoForEach.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\LacoForEach.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\LacoForEach.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\refint\LacoForEach.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\LacoForEach.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\LacoForEach.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 6\Aula 75 - Sintaxe opcional - Laco ForEach\LacoForEach\LacoForEach\obj\Debug\net6.0\ref\LacoForEach.dll
