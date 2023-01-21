@@ -37,7 +37,25 @@ namespace aula92
             Console.WriteLine("TotalHours: " + t.TotalHours);
             Console.WriteLine("TotalMinutes: " + t.TotalMinutes);
             Console.WriteLine("TotalSeconds: " + t.TotalSeconds);
-            Console.WriteLine("TotalMilliseconds: " + t.TotalMilliseconds);
+            Console.WriteLine("TotalMilliseconds: " + t.TotalMilliseconds + "\n\n");
+
+            //----------------------------------------------Operações
+
+            TimeSpan tt1 = new TimeSpan(1, 30, 10);
+            TimeSpan tt2 = new TimeSpan(0, 10, 5);
+
+            TimeSpan sum = tt1.Add(tt2);
+            TimeSpan dif = tt1.Subtract(tt2);
+            TimeSpan mult = tt2.Multiply(2.0);
+            TimeSpan div  = tt2.Divide(2.0);
+
+            Console.WriteLine("Sum: " + sum);
+            Console.WriteLine("Dif: " + dif);
+            Console.WriteLine("Mult: " + mult);
+            Console.WriteLine("Div: " + div);
+
+
+
 
         }
 
