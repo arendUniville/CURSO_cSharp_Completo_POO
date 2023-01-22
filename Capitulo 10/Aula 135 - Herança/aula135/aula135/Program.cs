@@ -1,4 +1,5 @@
 ﻿using System;
+using aula135.Entities;
 
 namespace aula135
 {
@@ -9,6 +10,7 @@ namespace aula135
         static void Main(string[] args)
         {
 
+            BusinessAccount account = new BusinessAccount(8010, "Bob Brown", 100.0, 500.0);
 
 
         }
