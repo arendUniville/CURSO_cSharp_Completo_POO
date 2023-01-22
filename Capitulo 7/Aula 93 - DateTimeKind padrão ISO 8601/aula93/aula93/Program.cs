@@ -35,6 +35,36 @@ namespace aula93 {
             Console.WriteLine("D3 to Local: " + d3.ToLocalTime());
             Console.WriteLine("D3 to Utc: " + d3.ToUniversalTime());
 
+            Console.WriteLine();
+            Console.WriteLine("-----------------------------------\n");
+
+
+            //------------------------------------------------------------
+
+
+            DateTime dd1 = DateTime.Parse("2000-08-15 13:05:58");
+            DateTime dd2 = DateTime.Parse("2000-08-15T13:05:58Z");
+
+
+            Console.WriteLine("DD1: " + dd1);
+            Console.WriteLine("DD1 Kind: " + dd1.Kind);
+            Console.WriteLine("DD1 to Local: " + dd1.ToLocalTime());
+            Console.WriteLine("DD1 to Utc: " + dd1.ToUniversalTime());
+
+            Console.WriteLine();
+
+            Console.WriteLine("DD2: " + dd2);
+            Console.WriteLine("DD2 Kind: " + dd2.Kind);
+            Console.WriteLine("DD2 to Local: " + dd2.ToLocalTime());
+            Console.WriteLine("DD2 to Utc: " + dd2.ToUniversalTime());
+
+            Console.WriteLine();
+            Console.WriteLine("-----------------------------------\n");
+
+            Console.WriteLine(dd2.ToString("yyyy-MM-ddTHH:mm:ssZ")); // Cuidado! Está errado
+            Console.WriteLine(dd2.ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ssZ")); // Forma correta
+
+
         }
 
     }
