@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\bin\Debug\net6.0\aula137.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\bin\Debug\net6.0\aula137.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\bin\Debug\net6.0\aula137.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\bin\Debug\net6.0\aula137.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\bin\Debug\net6.0\aula137.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\aula137.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\aula137.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\aula137.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\aula137.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\aula137.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\aula137.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\refint\aula137.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\aula137.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\aula137.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 10\Aula - 137 - Sobreposição, virtual, override e base\aula137\aula137\obj\Debug\net6.0\ref\aula137.dll
