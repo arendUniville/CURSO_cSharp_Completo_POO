@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\bin\Debug\net6.0\aula89.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\bin\Debug\net6.0\aula89.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\bin\Debug\net6.0\aula89.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\bin\Debug\net6.0\aula89.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\bin\Debug\net6.0\aula89.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\aula89.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\aula89.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\aula89.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\aula89.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\aula89.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\aula89.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\refint\aula89.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\aula89.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\aula89.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 89 - DateTime\aula89\aula89\obj\Debug\net6.0\ref\aula89.dll

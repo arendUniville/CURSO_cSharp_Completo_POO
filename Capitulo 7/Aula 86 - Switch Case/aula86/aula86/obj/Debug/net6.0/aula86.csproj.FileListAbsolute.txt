@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\bin\Debug\net6.0\aula86.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\bin\Debug\net6.0\aula86.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\bin\Debug\net6.0\aula86.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\bin\Debug\net6.0\aula86.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\bin\Debug\net6.0\aula86.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\aula86.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\aula86.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\aula86.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\aula86.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\aula86.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\aula86.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\refint\aula86.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\aula86.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\aula86.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 7\Aula 86 - Switch Case\aula86\aula86\obj\Debug\net6.0\ref\aula86.dll
