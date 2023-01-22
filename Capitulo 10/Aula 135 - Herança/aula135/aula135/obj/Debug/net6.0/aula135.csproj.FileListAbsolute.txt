@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\bin\Debug\net6.0\aula135.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\bin\Debug\net6.0\aula135.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\bin\Debug\net6.0\aula135.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\bin\Debug\net6.0\aula135.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\bin\Debug\net6.0\aula135.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\aula135.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\aula135.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\aula135.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\aula135.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\aula135.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\aula135.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\refint\aula135.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\aula135.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\aula135.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 135 - Herança\aula135\aula135\obj\Debug\net6.0\ref\aula135.dll
