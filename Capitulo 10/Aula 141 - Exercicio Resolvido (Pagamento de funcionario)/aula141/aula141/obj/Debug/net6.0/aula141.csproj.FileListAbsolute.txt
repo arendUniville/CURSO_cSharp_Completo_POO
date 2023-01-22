@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\bin\Debug\net6.0\aula141.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\bin\Debug\net6.0\aula141.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\bin\Debug\net6.0\aula141.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\bin\Debug\net6.0\aula141.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\bin\Debug\net6.0\aula141.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\aula141.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\aula141.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\aula141.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\aula141.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\aula141.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\aula141.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\refint\aula141.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\aula141.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\aula141.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 10\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\aula141\aula141\obj\Debug\net6.0\ref\aula141.dll
