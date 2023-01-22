@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-namespace aula137.Entities
+namespace aula138.Entities
 {
     class BusinessAccount : Account
     {

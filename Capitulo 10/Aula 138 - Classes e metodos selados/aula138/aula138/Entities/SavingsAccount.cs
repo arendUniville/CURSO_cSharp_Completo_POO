@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace aula137.Entities
+namespace aula138.Entities
 {
-    class SavingsAccount : Account
+    sealed class SavingsAccount : Account
     {
 
         public double InterestRate { get; set; }
@@ -30,7 +30,7 @@ namespace aula137.Entities
 
         }
 
-        public override void Withdraw(double amount)
+        public sealed override void Withdraw(double amount)
         {
             
             base.Withdraw(amount);
