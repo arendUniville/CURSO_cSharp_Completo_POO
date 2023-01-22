@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 10\\Aula 138 - Classes e metodos selados\\aula138\\aula138\\aula138.csproj",
-      "projectName": "aula138",
-      "projectPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 10\\Aula 138 - Classes e metodos selados\\aula138\\aula138\\aula138.csproj",
+      "projectUniqueName": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 10\\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\\aula141\\aula141\\aula141.csproj",
+      "projectName": "aula141",
+      "projectPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 10\\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\\aula141\\aula141\\aula141.csproj",
       "packagesPath": "C:\\Users\\bi_ar\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 10\\Aula 138 - Classes e metodos selados\\aula138\\aula138\\obj\\",
+      "outputPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 10\\Aula 141 - Exercicio Resolvido (Pagamento de funcionario)\\aula141\\aula141\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
