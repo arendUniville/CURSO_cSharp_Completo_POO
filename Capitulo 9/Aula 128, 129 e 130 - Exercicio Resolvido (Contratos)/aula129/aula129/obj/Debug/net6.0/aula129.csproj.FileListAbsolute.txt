@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\bin\Debug\net6.0\aula129.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\bin\Debug\net6.0\aula129.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\bin\Debug\net6.0\aula129.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\bin\Debug\net6.0\aula129.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\bin\Debug\net6.0\aula129.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\aula129.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\aula129.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\aula129.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\aula129.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\aula129.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\aula129.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\refint\aula129.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\aula129.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\aula129.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 9\Aula 128, 129 e 130 - Exercicio Resolvido (Contratos)\aula129\aula129\obj\Debug\net6.0\ref\aula129.dll
