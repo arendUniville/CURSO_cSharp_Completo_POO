@@ -7,6 +7,8 @@ namespace aula145.Entities
 
         public Color Color{ get; set; }
 
+
+
         public Shape(Color color)
         {
 
