@@ -12,20 +12,23 @@ namespace aula196
 
             string path = @"C:\Temp\file1.txt";
 
-            FileStream fs = null;
             StreamReader sr = null;
 
             try
             {
 
-                fs = new FileStream(path, FileMode.Open);
-                sr = new StreamReader(fs);
+                sr = File.OpenText(path);
 
-                string line = sr.ReadLine();
+                while (!sr.EndOfStream)
+                {
 
-                Console.WriteLine(line);
+                    string line = sr.ReadLine();
+                    Console.WriteLine(line);
 
-            }catch(IOException e)
+                }
+
+            }
+            catch(IOException e)
             {
 
                 Console.WriteLine("An error occurred: " + e.Message);
@@ -35,7 +38,6 @@ namespace aula196
             {
 
                 if(sr != null) sr.Close();
-                if(fs != null) fs.Close();
 
             }
 
