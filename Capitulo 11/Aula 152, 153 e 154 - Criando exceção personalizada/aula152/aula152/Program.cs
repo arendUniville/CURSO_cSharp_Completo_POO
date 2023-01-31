@@ -20,46 +20,22 @@ namespace aula152
             DateTime checkOut = DateTime.Parse(Console.ReadLine());
 
 
-            if(checkOut <= checkIn)
-            {
+            Reservation reservation = new Reservation(number, checkIn, checkOut);
+            Console.WriteLine("Reservation: " + reservation);
 
-                Console.WriteLine("Error in reservation: Check-out date must be after check-in");
+            Console.WriteLine();
 
-            }
-            else
-            {
+            Console.WriteLine("Enter data to update the reservation.");
 
-                Reservation reservation = new Reservation(number, checkIn, checkOut);
-                Console.WriteLine("Reservation: " + reservation);
+            Console.Write("Check-in date: ");
+            checkIn = DateTime.Parse(Console.ReadLine());
 
-                Console.WriteLine();
+            Console.Write("Check-out date: ");
+            checkOut = DateTime.Parse(Console.ReadLine());
 
-                Console.WriteLine("Enter data to update the reservation.");
-
-                Console.Write("Check-in date: ");
-                checkIn = DateTime.Parse(Console.ReadLine());
-
-                Console.Write("Check-out date: ");
-                checkOut = DateTime.Parse(Console.ReadLine());
-
-                string error = reservation.UpdateDates(checkIn, checkOut);
-                
-                if(error != null)
-                {
-
-                    Console.WriteLine("Error in reservation: " + error);
-
-                }
-                else
-                {
-
-                    Console.WriteLine("Reservation: " + reservation);
-
-                }
-
-            }
-
-
+            
+            reservation.UpdateDates(checkIn, checkOut);                
+            Console.WriteLine("Reservation: " + reservation);
 
         }
 

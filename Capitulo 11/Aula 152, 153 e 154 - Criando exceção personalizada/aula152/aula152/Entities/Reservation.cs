@@ -1,5 +1,5 @@
 ﻿using System;
-
+using aula152.Entities.Exceptions;
 
 namespace aula152.Entities
 {
@@ -16,6 +16,14 @@ namespace aula152.Entities
         public Reservation(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
 
+            if (checkOut <= checkIn)
+            {
+
+                throw new DomainException("Check-out date must be after check-in date");
+
+
+            }
+
             RoomNumber = roomNumber;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -30,7 +38,7 @@ namespace aula152.Entities
 
         }
 
-        public string UpdateDates(DateTime checkIn, DateTime checkOut)
+        public void UpdateDates(DateTime checkIn, DateTime checkOut)
         {
 
             DateTime now = DateTime.Now;
@@ -38,7 +46,7 @@ namespace aula152.Entities
             if (checkIn < now || checkOut < now)
             {
 
-                return "Reservation dates for update must be future dates.";
+                throw new DomainException("Reservation dates for update must be future dates.");
 
 
             }
@@ -46,15 +54,13 @@ namespace aula152.Entities
             if (checkOut <= checkIn)
             {
 
-                return "Check-out date must be after check-in date";
+                throw new DomainException("Check-out date must be after check-in date");
 
 
             }
 
             CheckIn = checkIn;
             CheckOut= checkOut;
-
-            return null;
 
         }
 
