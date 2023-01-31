@@ -35,9 +35,6 @@ namespace aula152
                 Console.WriteLine();
 
                 Console.WriteLine("Enter data to update the reservation.");
-                
-                Console.Write("Room number: ");
-                number = int.Parse(Console.ReadLine());
 
                 Console.Write("Check-in date: ");
                 checkIn = DateTime.Parse(Console.ReadLine());
