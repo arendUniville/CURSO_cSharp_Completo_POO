@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\bin\Debug\net6.0\aula197.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\bin\Debug\net6.0\aula197.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\bin\Debug\net6.0\aula197.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\bin\Debug\net6.0\aula197.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\bin\Debug\net6.0\aula197.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\aula197.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\aula197.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\aula197.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\aula197.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\aula197.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\aula197.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\refint\aula197.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\aula197.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\aula197.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 197 - Bloco using\aula197\aula197\obj\Debug\net6.0\ref\aula197.dll
