@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\bin\Debug\net6.0\aula198.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\bin\Debug\net6.0\aula198.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\bin\Debug\net6.0\aula198.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\bin\Debug\net6.0\aula198.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\bin\Debug\net6.0\aula198.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\aula198.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\aula198.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\aula198.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\aula198.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\aula198.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\aula198.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\refint\aula198.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\aula198.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\aula198.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 198 - StreamWriter\aula198\aula198\obj\Debug\net6.0\ref\aula198.dll

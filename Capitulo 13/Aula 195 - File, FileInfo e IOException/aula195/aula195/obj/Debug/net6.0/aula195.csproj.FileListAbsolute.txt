@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\bin\Debug\net6.0\aula195.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\bin\Debug\net6.0\aula195.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\bin\Debug\net6.0\aula195.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\bin\Debug\net6.0\aula195.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\bin\Debug\net6.0\aula195.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\aula195.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\aula195.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\aula195.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\aula195.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\aula195.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\aula195.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\refint\aula195.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\aula195.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\aula195.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 195 - File, FileInfo e IOException\aula195\aula195\obj\Debug\net6.0\ref\aula195.dll
