@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\bin\Debug\net6.0\aula199.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\bin\Debug\net6.0\aula199.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\bin\Debug\net6.0\aula199.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\bin\Debug\net6.0\aula199.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\bin\Debug\net6.0\aula199.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\aula199.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\aula199.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\aula199.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\aula199.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\aula199.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\aula199.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\refint\aula199.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\aula199.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\aula199.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 199 - Directory e DirectoryInfo\aula199\aula199\obj\Debug\net6.0\ref\aula199.dll
