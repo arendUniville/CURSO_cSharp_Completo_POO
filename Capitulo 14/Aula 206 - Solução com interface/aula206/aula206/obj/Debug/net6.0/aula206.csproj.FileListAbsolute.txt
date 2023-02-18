@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\bin\Debug\net6.0\aula206.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\bin\Debug\net6.0\aula206.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\bin\Debug\net6.0\aula206.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\bin\Debug\net6.0\aula206.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\bin\Debug\net6.0\aula206.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\aula206.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\aula206.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\aula206.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\aula206.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\aula206.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\aula206.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\refint\aula206.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\aula206.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\aula206.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 206 - Solução com interface\aula206\aula206\obj\Debug\net6.0\ref\aula206.dll
