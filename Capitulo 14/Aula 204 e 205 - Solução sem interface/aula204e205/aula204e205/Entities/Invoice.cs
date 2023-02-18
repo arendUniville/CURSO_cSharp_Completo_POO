@@ -2,7 +2,7 @@
 
 namespace aula204e205.Entities
 {
-    internal class Invoice
+    class Invoice
     {
 
         public double BasicPayment { get; set; }

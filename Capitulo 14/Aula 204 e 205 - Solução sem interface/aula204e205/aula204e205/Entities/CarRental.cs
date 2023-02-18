@@ -2,7 +2,7 @@
 
 namespace aula204e205.Entities
 {
-    internal class CarRental
+    class CarRental
     {
 
         public DateTime Start { get; set; }

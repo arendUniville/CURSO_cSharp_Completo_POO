@@ -2,7 +2,7 @@
 
 namespace aula204e205.Entities
 {
-    internal class Vehicle
+    class Vehicle
     {
 
         public string Model { get; set; }
