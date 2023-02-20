@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\bin\Debug\net6.0\aula215.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\bin\Debug\net6.0\aula215.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\bin\Debug\net6.0\aula215.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\bin\Debug\net6.0\aula215.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\bin\Debug\net6.0\aula215.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\aula215.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\aula215.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\aula215.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\aula215.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\aula215.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\aula215.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\refint\aula215.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\aula215.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\aula215.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 215 - Restrição de generics\aula215\aula215\obj\Debug\net6.0\ref\aula215.dll
