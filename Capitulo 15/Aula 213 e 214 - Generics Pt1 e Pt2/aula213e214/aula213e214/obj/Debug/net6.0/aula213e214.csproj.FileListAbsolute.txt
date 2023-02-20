@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\bin\Debug\net6.0\aula213e214.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\bin\Debug\net6.0\aula213e214.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\bin\Debug\net6.0\aula213e214.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\bin\Debug\net6.0\aula213e214.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\bin\Debug\net6.0\aula213e214.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\aula213e214.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\aula213e214.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\aula213e214.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\aula213e214.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\aula213e214.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\aula213e214.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\refint\aula213e214.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\aula213e214.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\aula213e214.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 213 e 214 - Generics Pt1 e Pt2\aula213e214\aula213e214\obj\Debug\net6.0\ref\aula213e214.dll

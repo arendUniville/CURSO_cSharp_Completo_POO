@@ -42,19 +42,19 @@ namespace aula213e214
         public void Print()
         {
 
-            Console.WriteLine("[");
+            Console.Write("[");
 
             for(int i = 0; i < _count - 1; i++)
             {
 
-                Console.WriteLine(_values[i] + ", ");
+                Console.Write(_values[i] + ", ");
 
             }
 
             if(_count > 0)
             {
 
-                Console.WriteLine(_values[_count - 1]);
+                Console.Write(_values[_count - 1]);
 
             }
 
