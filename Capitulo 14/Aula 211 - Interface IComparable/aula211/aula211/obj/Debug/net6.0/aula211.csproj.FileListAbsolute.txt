@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\bin\Debug\net6.0\aula211.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\bin\Debug\net6.0\aula211.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\bin\Debug\net6.0\aula211.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\bin\Debug\net6.0\aula211.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\bin\Debug\net6.0\aula211.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\aula211.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\aula211.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\aula211.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\aula211.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\aula211.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\aula211.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\refint\aula211.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\aula211.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\aula211.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 211 - Interface IComparable\aula211\aula211\obj\Debug\net6.0\ref\aula211.dll
