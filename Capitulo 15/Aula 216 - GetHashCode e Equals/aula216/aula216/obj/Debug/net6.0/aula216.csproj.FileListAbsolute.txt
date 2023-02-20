@@ -1,0 +1,15 @@
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\bin\Debug\net6.0\aula216.exe
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\bin\Debug\net6.0\aula216.deps.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\bin\Debug\net6.0\aula216.runtimeconfig.json
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\bin\Debug\net6.0\aula216.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\bin\Debug\net6.0\aula216.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\aula216.csproj.AssemblyReference.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\aula216.GeneratedMSBuildEditorConfig.editorconfig
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\aula216.AssemblyInfoInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\aula216.AssemblyInfo.cs
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\aula216.csproj.CoreCompileInputs.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\aula216.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\refint\aula216.dll
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\aula216.pdb
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\aula216.genruntimeconfig.cache
+C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 15\Aula 216 - GetHashCode e Equals\aula216\aula216\obj\Debug\net6.0\ref\aula216.dll
