@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace aul209.Model.Entities
 {
-    class Retangle : Shape
+    class Rectangle : Shape
     {
 
         public double Width { get; set; }

@@ -1,5 +1,6 @@
 ﻿using System;
-
+using aul209.Model.Entities;
+using aul209.Model.Enums;
 
 namespace aul209
 {
@@ -10,7 +11,7 @@ namespace aul209
         static void Main(string[] args)
         {
 
-
+            Shape s2 = new Rectangle() { Width= 3.5, Height = 4.2};
 
         }
 

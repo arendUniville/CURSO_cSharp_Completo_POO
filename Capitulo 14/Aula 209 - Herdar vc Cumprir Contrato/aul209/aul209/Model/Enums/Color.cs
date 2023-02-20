@@ -3,7 +3,7 @@
 
 namespace aul209.Model.Enums
 {
-    enum Colors
+    enum Color
     {
 
         Black, White
