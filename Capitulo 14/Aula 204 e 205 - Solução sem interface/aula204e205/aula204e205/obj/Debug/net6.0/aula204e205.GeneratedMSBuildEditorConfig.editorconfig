@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = aula204e205
+build_property.ProjectDir = C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 14\Aula 204 e 205 - Solução sem interface\aula204e205\aula204e205\
