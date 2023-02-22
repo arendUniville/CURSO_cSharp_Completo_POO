@@ -17,6 +17,14 @@ namespace aula218
 
             PrintCollection(a);
 
+
+            //Union
+
+            SortedSet<int> c = new SortedSet<int>(a);
+            c.UnionWith(b);
+
+            PrintCollection(c);
+
         }
 
 
