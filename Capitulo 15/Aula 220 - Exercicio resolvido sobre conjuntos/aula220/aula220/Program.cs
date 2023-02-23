@@ -1,5 +1,5 @@
 ﻿using System;
-
+using aula220.Entities;
 
 namespace aula220
 {
@@ -9,6 +9,9 @@ namespace aula220
 
         public static void Main(string[] args)
         {
+
+            HashSet<LogRecord> set = new HashSet<LogRecord>();
+
 
             Console.Write("Enter file full path: ");
             string path = Console.ReadLine();
@@ -22,10 +25,18 @@ namespace aula220
                     while (!sr.EndOfStream)
                     {
 
-                        string line = sr.ReadLine();
-                        Console.WriteLine(line);
+                        string[] line = sr.ReadLine().Split(' ');
+
+                        string name = line[0];
+                        DateTime instant = DateTime.Parse(line[1]);
+
+                        set.Add(new LogRecord { Username = name, Instant = instant });
+
 
                     }
+
+
+                    Console.WriteLine("Total users: " + set.Count);
 
                 }
 
