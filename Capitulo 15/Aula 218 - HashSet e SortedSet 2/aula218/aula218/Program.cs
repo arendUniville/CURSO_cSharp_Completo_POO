@@ -19,11 +19,26 @@ namespace aula218
 
 
             //Union
-
             SortedSet<int> c = new SortedSet<int>(a);
             c.UnionWith(b);
 
             PrintCollection(c);
+
+
+            //Intersection
+
+            SortedSet<int> d = new SortedSet<int>(a);
+            d.IntersectWith(b);
+
+            PrintCollection(d);
+
+
+            //Diference
+            SortedSet<int> e = new SortedSet<int>(a);
+            e.ExceptWith(b);
+
+            PrintCollection(e);
+
 
         }
 
