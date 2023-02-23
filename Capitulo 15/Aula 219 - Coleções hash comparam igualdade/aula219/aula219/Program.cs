@@ -27,6 +27,11 @@ namespace aula219
             Console.WriteLine(a.Contains(prod));
 
 
+            Point p = new Point(5, 10);
+
+            Console.WriteLine(b.Contains(p));
+
+
         }
 
     }
