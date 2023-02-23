@@ -24,6 +24,9 @@ namespace aula219
 
             Product prod = new Product("Notebook", 1.200);
 
+            Console.WriteLine(a.Contains(prod));
+
+
         }
 
     }
