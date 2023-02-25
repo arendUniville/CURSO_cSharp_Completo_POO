@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\bin\Debug\net6.0\aula230.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\bin\Debug\net6.0\aula230.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\bin\Debug\net6.0\aula230.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\bin\Debug\net6.0\aula230.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\bin\Debug\net6.0\aula230.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\aula230.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\aula230.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\aula230.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\aula230.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\aula230.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\aula230.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\refint\aula230.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\aula230.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\aula230.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 230 - Introdução a delegates\aula230\aula230\obj\Debug\net6.0\ref\aula230.dll
