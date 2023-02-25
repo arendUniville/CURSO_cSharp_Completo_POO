@@ -1,7 +1,8 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 
-namespace aula226.Extensions
+
+//Inserindo o método dentro do namespace System.
+namespace System
 {
     static class DateTimeExtensions
     {
