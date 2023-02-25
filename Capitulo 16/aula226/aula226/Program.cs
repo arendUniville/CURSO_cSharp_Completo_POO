@@ -10,7 +10,7 @@ namespace aula226
         public static void Main(string[] args)
         {
 
-            DateTime dt = new DateTime(2018, 11, 16, 6, 10, 45);
+            DateTime dt = new DateTime(2023, 02, 25, 6, 10, 45);
 
             Console.WriteLine(dt.ElapsedTime());
 

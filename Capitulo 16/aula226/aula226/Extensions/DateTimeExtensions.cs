@@ -20,7 +20,7 @@ namespace aula226.Extensions
             else
             {
 
-                return duration.TotalDays.ToString("F1", CultureInfo.InvariantCulture) + " hours.";
+                return duration.TotalDays.ToString("F1", CultureInfo.InvariantCulture) + " days.";
 
             }
 
