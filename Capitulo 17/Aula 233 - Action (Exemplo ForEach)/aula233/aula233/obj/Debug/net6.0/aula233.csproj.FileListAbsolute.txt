@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\bin\Debug\net6.0\aula233.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\bin\Debug\net6.0\aula233.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\bin\Debug\net6.0\aula233.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\bin\Debug\net6.0\aula233.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\bin\Debug\net6.0\aula233.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\aula233.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\aula233.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\aula233.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\aula233.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\aula233.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\aula233.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\refint\aula233.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\aula233.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\aula233.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 233 - Action (Exemplo ForEach)\aula233\aula233\obj\Debug\net6.0\ref\aula233.dll
