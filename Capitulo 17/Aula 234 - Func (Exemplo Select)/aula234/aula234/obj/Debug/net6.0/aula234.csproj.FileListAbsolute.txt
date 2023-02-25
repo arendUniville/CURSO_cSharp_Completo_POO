@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\bin\Debug\net6.0\aula234.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\bin\Debug\net6.0\aula234.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\bin\Debug\net6.0\aula234.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\bin\Debug\net6.0\aula234.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\bin\Debug\net6.0\aula234.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\aula234.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\aula234.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\aula234.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\aula234.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\aula234.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\aula234.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\refint\aula234.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\aula234.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\aula234.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 234 - Func (Exemplo Select)\aula234\aula234\obj\Debug\net6.0\ref\aula234.dll
