@@ -2,14 +2,13 @@
 using System;
 
 
-namespace aul230
+namespace aula230
 {
+
+    delegate double BinaryNumericOperation(double n1, double n2);
 
     class Program
     {
-
-
-        delegate double BinaryNumericOperation(double n1, double n2);
 
         static void Main(string[] args)
         {
