@@ -20,7 +20,6 @@ namespace aula231
 
             op.Invoke(a, b);
 
-
         }
 
     }
