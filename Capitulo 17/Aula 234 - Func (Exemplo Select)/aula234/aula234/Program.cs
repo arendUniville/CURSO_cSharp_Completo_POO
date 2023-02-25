@@ -20,7 +20,28 @@ namespace aula234
             list.Add(new Product("HD Case", 80.90));
 
 
+            //--------------Forma 1--------------
+            /*
+            
             List<string> result = list.Select(NameUpper).ToList();
+
+            foreach (string s in result)
+            {
+
+                Console.WriteLine(s);
+
+            }
+
+            */
+
+
+            //--------------Forma 2--------------
+            /* 
+             
+            Func<Product, string> func = NameUpper;
+
+
+            List<string> result = list.Select(func).ToList();
 
             foreach(string s in result)
             {
@@ -28,6 +49,42 @@ namespace aula234
                 Console.WriteLine(s);
 
             }
+            
+             */
+
+
+            //--------------Forma 3--------------
+            /* 
+             
+            Func<Product, string> func = p => p.Name.ToUpper();
+
+
+            List<string> result = list.Select(func).ToList();
+
+            foreach (string s in result)
+            {
+
+                Console.WriteLine(s);
+
+            }
+
+            */
+
+
+            //--------------Forma 4--------------
+
+            
+            
+            List<string> result = list.Select(p => p.Name.ToUpper()).ToList();
+
+            foreach (string s in result)
+            {
+
+                Console.WriteLine(s);
+
+            }
+            
+            
 
         }
 
