@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\bin\Debug\net6.0\aula240.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\bin\Debug\net6.0\aula240.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\bin\Debug\net6.0\aula240.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\bin\Debug\net6.0\aula240.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\bin\Debug\net6.0\aula240.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\aula240.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\aula240.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\aula240.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\aula240.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\aula240.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\aula240.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\refint\aula240.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\aula240.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\aula240.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 240 - LINQ com notação similar SQL\aula240\aula240\obj\Debug\net6.0\ref\aula240.dll
