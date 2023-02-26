@@ -105,6 +105,28 @@ namespace aula237
             var r16 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).Aggregate(0.0, (x, y) => x + y);
             Console.WriteLine("Category 1 aggregate sum: " + r16);
 
+
+            Console.Write("\n\n=========GROUP BY CATEGORIES=========\n\n");
+
+            var r17 = products.GroupBy(p => p.Category);
+
+            foreach(IGrouping<Category, Product> group in r17)
+            {
+
+                Console.WriteLine("Category: " + group.Key.Name + ": ");
+                
+                foreach(Product p in group)
+                {
+
+                    Console.WriteLine(p);
+
+                }
+
+                Console.WriteLine();
+
+
+            }
+
         }
     }
 
