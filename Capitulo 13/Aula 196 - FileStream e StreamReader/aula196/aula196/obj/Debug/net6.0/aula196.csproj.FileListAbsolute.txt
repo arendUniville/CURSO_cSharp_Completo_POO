@@ -13,3 +13,18 @@ C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e Str
 C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.pdb
 C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.genruntimeconfig.cache
 C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\ref\aula196.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\bin\Debug\net6.0\aula196.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\bin\Debug\net6.0\aula196.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\bin\Debug\net6.0\aula196.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\bin\Debug\net6.0\aula196.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\bin\Debug\net6.0\aula196.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\refint\aula196.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\aula196.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 13\Aula 196 - FileStream e StreamReader\aula196\aula196\obj\Debug\net6.0\ref\aula196.dll
