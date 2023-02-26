@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\bin\Debug\net6.0\aula237.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\bin\Debug\net6.0\aula237.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\bin\Debug\net6.0\aula237.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\bin\Debug\net6.0\aula237.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\bin\Debug\net6.0\aula237.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\aula237.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\aula237.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\aula237.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\aula237.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\aula237.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\aula237.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\refint\aula237.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\aula237.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\aula237.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 237 - LINQ com Lambda - Parte 1\aula237\aula237\obj\Debug\net6.0\ref\aula237.dll
