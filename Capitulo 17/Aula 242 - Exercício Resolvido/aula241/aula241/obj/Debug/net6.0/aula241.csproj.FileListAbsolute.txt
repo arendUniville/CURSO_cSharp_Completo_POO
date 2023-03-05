@@ -1,0 +1,15 @@
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\bin\Debug\net6.0\aula241.exe
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\bin\Debug\net6.0\aula241.deps.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\bin\Debug\net6.0\aula241.runtimeconfig.json
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\bin\Debug\net6.0\aula241.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\bin\Debug\net6.0\aula241.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\aula241.csproj.AssemblyReference.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\aula241.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\aula241.AssemblyInfoInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\aula241.AssemblyInfo.cs
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\aula241.csproj.CoreCompileInputs.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\aula241.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\refint\aula241.dll
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\aula241.pdb
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\aula241.genruntimeconfig.cache
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 17\Aula 242 - Exercício Resolvido\aula241\aula241\obj\Debug\net6.0\ref\aula241.dll
