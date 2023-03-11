@@ -19,7 +19,7 @@ using SalesWebMVC;
 #line default
 #line hidden
 #line 2 "C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 18\SalesWebMVC\SalesWebMVC\Views\_ViewImports.cshtml"
-using SalesWebMVC.Models;
+using SalesWebMVC.Models.ViewModels;
 
 #line default
 #line hidden
