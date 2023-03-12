@@ -70,3 +70,4 @@ C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 18\SalesWebMVC\SalesWebMVC\bin
 C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 18\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
 C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 18\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\repUniville\CURSO_cSharp_Completo_POO\Capitulo 18\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\projects\0 - aulas\cSharp\CURSO_cSharp_Completo_POO\Capitulo 18\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
