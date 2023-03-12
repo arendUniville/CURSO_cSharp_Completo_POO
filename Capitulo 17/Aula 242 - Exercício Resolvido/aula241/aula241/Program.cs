@@ -34,6 +34,8 @@ namespace aula241
 
                     list.Add(new Product(name, price));
 
+                    Product produto = new Product(name, price);
+
                 }
 
             }

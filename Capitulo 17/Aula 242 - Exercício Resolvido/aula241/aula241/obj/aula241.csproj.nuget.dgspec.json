@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\aula241.csproj": {}
+    "C:\\repUniville\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\aula241.csproj": {}
   },
   "projects": {
-    "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\aula241.csproj": {
+    "C:\\repUniville\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\aula241.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\aula241.csproj",
+        "projectUniqueName": "C:\\repUniville\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\aula241.csproj",
         "projectName": "aula241",
-        "projectPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\aula241.csproj",
-        "packagesPath": "C:\\Users\\bi_ar\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\0 - aulas\\cSharp\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\obj\\",
+        "projectPath": "C:\\repUniville\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\aula241.csproj",
+        "packagesPath": "C:\\Users\\i_are\\.nuget\\packages\\",
+        "outputPath": "C:\\repUniville\\CURSO_cSharp_Completo_POO\\Capitulo 17\\Aula 242 - Exercício Resolvido\\aula241\\aula241\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bi_ar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\i_are\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
